@@ -1,0 +1,3 @@
+# Bower - Ignore installed components
+src/bower_components/**/*
+!src/bower_components/EMPTY
